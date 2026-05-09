@@ -7,4 +7,4 @@ A custom Android OS for phones.
 - Customization
 - Privacy focused
 
-We're working on our first optimization, Android 16 (Balaclava) for the Moto X4 (payton)
+We're working on our first optimization, Android 16 (Baklava) for the Moto X4 (payton)
